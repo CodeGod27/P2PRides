@@ -15,6 +15,14 @@ bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+![image](https://github.com/CodeGod27/P2PRides/assets/100406484/229b43cc-70a0-4336-8d61-b999f3ca7e8e)
+![image](https://github.com/CodeGod27/P2PRides/assets/100406484/056f2e78-223e-49de-b051-77f8bc434848)
+![image](https://github.com/CodeGod27/P2PRides/assets/100406484/3626aa6a-ce2a-4e3d-8165-23f574fcf8e5)
+![image](https://github.com/CodeGod27/P2PRides/assets/100406484/e9d1cc25-4e32-4f24-a8be-e2c92465081f)
+![image](https://github.com/CodeGod27/P2PRides/assets/100406484/712841ae-d5cd-442a-a313-866ad39aa750)
+
+
+
 
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
